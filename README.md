@@ -3,6 +3,7 @@
 Checkout, then install dependencies.
 
     npm install
+	npm install -g docco # if you don't have it already
 
 You can run it, of course
 
